@@ -1,4 +1,4 @@
-FROM mitchty/alpine-ghc
+FROM alpine
 
 MAINTAINER k4zuki
 
